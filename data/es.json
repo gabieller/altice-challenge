@@ -1,0 +1,953 @@
+{
+  "pageProps": {
+    "navigation": [
+      {
+        "id": 2541,
+        "title": "CONOCER",
+        "type": "WRAPPER",
+        "path": null,
+        "related": null,
+        "uiRouterKey": "conocer",
+        "items": [
+          {
+            "id": 2542,
+            "title": "JMJ Lisboa 2023",
+            "type": "WRAPPER",
+            "path": null,
+            "related": null,
+            "uiRouterKey": "jmj-lisboa-2023",
+            "items": [
+              {
+                "id": 2543,
+                "title": "Tema",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "tema",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-10-30T15:30:56.701Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "tema",
+                "items": []
+              },
+              {
+                "id": 2544,
+                "title": "Logo",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "logo",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-10-30T15:34:06.730Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "logo",
+                "items": []
+              },
+              {
+                "id": 2904,
+                "title": "Mensaje del Papa",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "mensaje-del-papa",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2023-02-13T13:16:51.401Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "mensaje-del-papa",
+                "items": []
+              },
+              {
+                "id": 2545,
+                "title": "Himno",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "himno",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-10-31T10:07:22.577Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "himno",
+                "items": []
+              },
+              {
+                "id": 2546,
+                "title": "Oración oficial",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "oracion-oficial",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-10-20T09:25:04.924Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "oracion-oficial",
+                "items": []
+              },
+              {
+                "id": 2547,
+                "title": "Sustentabilidad",
+                "type": "WRAPPER",
+                "path": null,
+                "related": null,
+                "uiRouterKey": "sustentabilidad",
+                "items": [
+                  {
+                    "id": 2548,
+                    "title": "Compromiso con la Sustentabilidad",
+                    "type": "INTERNAL",
+                    "path": null,
+                    "related": {
+                      "slug": "compromisos-sustentabilidad",
+                      "__contentType": "api::page.page",
+                      "publishedAt": "2022-12-18T22:45:30.847Z",
+                      "locale": "es"
+                    },
+                    "uiRouterKey": "compromiso-con-la-sustentabilidad",
+                    "items": null
+                  },
+                  {
+                    "id": 2549,
+                    "title": "Plantación mundial de árboles",
+                    "type": "INTERNAL",
+                    "path": null,
+                    "related": {
+                      "slug": "plantacion-mundial-de-arboles",
+                      "__contentType": "api::page.page",
+                      "publishedAt": "2022-12-09T18:52:18.732Z",
+                      "locale": "es"
+                    },
+                    "uiRouterKey": "plantacion-mundial-de-arboles",
+                    "items": null
+                  }
+                ]
+              },
+              {
+                "id": 2550,
+                "title": "Los Patronos",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "los-patronos",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-10-13T13:01:18.282Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "los-patronos",
+                "items": []
+              },
+              {
+                "id": 2551,
+                "title": "Días en las Diócesis",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "dias-en-las-diocesis",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-10-20T13:07:41.279Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "dias-en-las-diocesis",
+                "items": []
+              },
+              {
+                "id": 2552,
+                "title": "La Iglesia en Portugal",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "la-iglesia-en-portugal",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-10-31T11:09:31.500Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "la-iglesia-en-portugal",
+                "items": []
+              },
+              {
+                "id": 2553,
+                "title": "La ciudad y el país",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "la-ciudad-y-el-pais",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-10-13T13:13:34.228Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "la-ciudad-y-el-pais",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": 2554,
+            "title": "La organización",
+            "type": "WRAPPER",
+            "path": null,
+            "related": null,
+            "uiRouterKey": "la-organizacion",
+            "items": [
+              {
+                "id": 2555,
+                "title": "Fundación JMJ Lisboa 2023",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "fundacion-jmj-lisboa-2023",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-10-31T11:27:03.578Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "fundacion-jmj-lisboa-2023",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": 2558,
+            "title": "Sobre la JMJ",
+            "type": "WRAPPER",
+            "path": null,
+            "related": null,
+            "uiRouterKey": "sobre-la-jmj",
+            "items": [
+              {
+                "id": 2559,
+                "title": "¿Qué es?",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "que-es",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-05T16:06:46.475Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "que-es",
+                "items": []
+              },
+              {
+                "id": 2668,
+                "title": "La historia",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "historia",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-05T17:47:29.605Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "la-historia",
+                "items": []
+              },
+              {
+                "id": 2666,
+                "title": "Los Símbolos",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "los-simbolos",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-05T17:56:58.719Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "los-simbolos",
+                "items": []
+              },
+              {
+                "id": 2667,
+                "title": "Los Papas",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "los-papas-y-la-jmj",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-05T17:59:00.158Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "los-papas",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": 2664,
+            "title": "Noticias",
+            "type": "INTERNAL",
+            "path": null,
+            "related": {
+              "slug": "noticias",
+              "__contentType": "api::page.page",
+              "publishedAt": "2022-12-09T17:36:18.485Z",
+              "locale": "es"
+            },
+            "uiRouterKey": "noticias",
+            "items": []
+          },
+          {
+            "id": 2665,
+            "title": "Preguntas Frecuentes (FAQ)",
+            "type": "INTERNAL",
+            "path": null,
+            "related": {
+              "slug": "preguntas-frecuentes",
+              "__contentType": "api::page.page",
+              "publishedAt": "2022-12-09T17:40:31.471Z",
+              "locale": "es"
+            },
+            "uiRouterKey": "preguntas-frecuentes-faq",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": 2669,
+        "title": "PREPARAR",
+        "type": "WRAPPER",
+        "path": null,
+        "related": null,
+        "uiRouterKey": "preparar",
+        "items": [
+          {
+            "id": 2670,
+            "title": "Peregrinación de los Símbolos",
+            "type": "WRAPPER",
+            "path": null,
+            "related": null,
+            "uiRouterKey": "peregrinacion-de-los-simbolos",
+            "items": [
+              {
+                "id": 2675,
+                "title": "Itinerario",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "la-peregrinacion-de-los-simbolos-itinerario",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-12-24T18:06:22.798Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "itinerario",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": 2671,
+            "title": "Santo Rosario",
+            "type": "INTERNAL",
+            "path": null,
+            "related": {
+              "slug": "santo-rosario",
+              "__contentType": "api::page.page",
+              "publishedAt": "2022-11-05T18:54:54.744Z",
+              "locale": "es"
+            },
+            "uiRouterKey": "santo-rosario",
+            "items": []
+          },
+          {
+            "id": 2673,
+            "title": "Catequesis",
+            "type": "INTERNAL",
+            "path": null,
+            "related": {
+              "slug": "catequesis-rise-up",
+              "__contentType": "api::page.page",
+              "publishedAt": "2022-12-09T17:31:16.869Z",
+              "locale": "es"
+            },
+            "uiRouterKey": "catequesis",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": 2676,
+        "title": "PARTICIPAR",
+        "type": "WRAPPER",
+        "path": null,
+        "related": null,
+        "uiRouterKey": "participar",
+        "items": [
+          {
+            "id": 2677,
+            "title": "Información general",
+            "type": "WRAPPER",
+            "path": null,
+            "related": null,
+            "uiRouterKey": "informacion-general",
+            "items": [
+              {
+                "id": 2678,
+                "title": "Programa",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "el-programa",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-12-09T17:34:11.431Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "programa",
+                "items": []
+              },
+              {
+                "id": 2680,
+                "title": "Alojamiento",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "alojamiento",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-05T18:58:57.549Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "alojamiento",
+                "items": []
+              },
+              {
+                "id": 2679,
+                "title": "Alimentación",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "alimentacion",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-05T19:01:17.402Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "alimentacion",
+                "items": []
+              },
+              {
+                "id": 2685,
+                "title": "Transportes",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "transportes",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2023-01-03T13:28:15.633Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "transportes",
+                "items": []
+              },
+              {
+                "id": 2689,
+                "title": "Seguridad y Salud",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "seguridad-y-salud",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-05T19:09:11.007Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "seguridad-y-salud",
+                "items": []
+              },
+              {
+                "id": 2687,
+                "title": "Centros de información e inscripción",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "centros-de-informacion-e-inscripcion",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-12-30T16:27:19.765Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "centros-de-informacion-e-inscripcion",
+                "items": []
+              },
+              {
+                "id": 2688,
+                "title": "Visados y pasaportes",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "visados-y-pasaportes",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-05T19:15:35.407Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "visados-y-pasaportes",
+                "items": []
+              },
+              {
+                "id": 2690,
+                "title": "Personas con discapacidades",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "personas-con-discapacidades",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-05T19:17:17.867Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "personas-con-discapacidades",
+                "items": []
+              },
+              {
+                "id": 2686,
+                "title": "Puntos de reciclaje",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "puntos-de-reciclaje",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-05T19:18:39.087Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "puntos-de-reciclaje",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": 2681,
+            "title": "Peregrinos",
+            "type": "WRAPPER",
+            "path": null,
+            "related": null,
+            "uiRouterKey": "peregrinos",
+            "items": [
+              {
+                "id": 2682,
+                "title": "Inscripciones",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "inscripciones-peregrinos",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-12-09T17:46:19.176Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "inscripciones",
+                "items": []
+              },
+              {
+                "id": 2697,
+                "title": "Paquetes para peregrinos",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "paquetes-para-peregrinos",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-12-09T16:56:32.852Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "paquetes-para-peregrinos",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": 2691,
+            "title": "Voluntarios",
+            "type": "WRAPPER",
+            "path": null,
+            "related": null,
+            "uiRouterKey": "voluntarios",
+            "items": [
+              {
+                "id": 2692,
+                "title": "Ser un voluntario",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "ser-un-voluntario",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-05T19:33:34.281Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "ser-un-voluntario",
+                "items": []
+              },
+              {
+                "id": 2695,
+                "title": "Papel del voluntario",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "papel-del-voluntario",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-05T19:34:54.468Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "papel-del-voluntario",
+                "items": []
+              },
+              {
+                "id": 2693,
+                "title": "Paquetes para Voluntarios Centrales",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "paquetes-para-voluntarios-centrales",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-05T19:37:29.381Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "paquetes-para-voluntarios-centrales",
+                "items": []
+              },
+              {
+                "id": 2824,
+                "title": "Paquetes para Voluntarios Parroquiales",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "paquetes-para-voluntarios-parroquiales",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-12-09T19:06:10.435Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "paquetes-para-voluntarios-parroquiales",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": 2699,
+            "title": "Obispos",
+            "type": "INTERNAL",
+            "path": null,
+            "related": {
+              "slug": "obispos",
+              "__contentType": "api::page.page",
+              "publishedAt": "2022-11-06T23:23:30.977Z",
+              "locale": "es"
+            },
+            "uiRouterKey": "obispos",
+            "items": []
+          },
+          {
+            "id": 2700,
+            "title": "Prensa y influencers",
+            "type": "INTERNAL",
+            "path": null,
+            "related": {
+              "slug": "prensa-e-influencers",
+              "__contentType": "api::page.page",
+              "publishedAt": "2022-11-06T23:24:12.015Z",
+              "locale": "es"
+            },
+            "uiRouterKey": "prensa-y-influencers",
+            "items": []
+          },
+          {
+            "id": 2698,
+            "title": "Festival de la Juventud",
+            "type": "WRAPPER",
+            "path": null,
+            "related": null,
+            "uiRouterKey": "festival-de-la-juventud",
+            "items": [
+              {
+                "id": 2701,
+                "title": "Presentación",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "festival-de-la-juventud",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-06T23:25:30.633Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "presentacion",
+                "items": []
+              },
+              {
+                "id": 2713,
+                "title": "Inscripciones",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "inscripciones-festival-de-la-juventud",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2023-01-01T17:58:13.797Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "inscripciones",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": 2703,
+            "title": "Ciudad de la Alegría",
+            "type": "WRAPPER",
+            "path": null,
+            "related": null,
+            "uiRouterKey": "ciudad-de-la-alegria",
+            "items": [
+              {
+                "id": 2706,
+                "title": "Presentación",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "ciudad-de-la-alegria",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-06T23:33:17.004Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "presentacion",
+                "items": []
+              },
+              {
+                "id": 2707,
+                "title": "Feria Vocacional",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "encuentro-vocacional",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-06T23:34:21.490Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "feria-vocacional",
+                "items": []
+              },
+              {
+                "id": 2708,
+                "title": "Parque del perdón",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "parque-del-perdon",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-06T23:38:54.856Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "parque-del-perdon",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": 2704,
+            "title": "Eventos centrales",
+            "type": "WRAPPER",
+            "path": null,
+            "related": null,
+            "uiRouterKey": "eventos-centrales",
+            "items": [
+              {
+                "id": 2711,
+                "title": "Presentación",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "eventos-centrales",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-06T23:40:39.294Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "presentacion",
+                "items": []
+              },
+              {
+                "id": 2710,
+                "title": "Liturgia",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "liturgia",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-06T23:41:04.555Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "liturgia",
+                "items": []
+              },
+              {
+                "id": 2712,
+                "title": "Música",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "canciones",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-10-18T19:05:30.540Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "musica",
+                "items": []
+              },
+              {
+                "id": 2821,
+                "title": "Rise Up",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "rise-up",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-12-09T18:34:52.013Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "rise-up",
+                "items": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2714,
+        "title": "APOYAR",
+        "type": "WRAPPER",
+        "path": null,
+        "related": null,
+        "uiRouterKey": "apoyar",
+        "items": [
+          {
+            "id": 2720,
+            "title": "Nuestros Asociados",
+            "type": "INTERNAL",
+            "path": null,
+            "related": {
+              "slug": "socios",
+              "__contentType": "api::page.page",
+              "publishedAt": "2022-12-21T19:36:08.822Z",
+              "locale": "es"
+            },
+            "uiRouterKey": "nuestros-asociados",
+            "items": []
+          },
+          {
+            "id": 2722,
+            "title": "Productos oficiales",
+            "type": "INTERNAL",
+            "path": null,
+            "related": {
+              "slug": "productos-oficiales",
+              "__contentType": "api::page.page",
+              "publishedAt": "2022-11-29T22:48:54.505Z",
+              "locale": "es"
+            },
+            "uiRouterKey": "productos-oficiales",
+            "items": []
+          }
+        ]
+      },
+      {
+        "id": 2718,
+        "title": "DIVULGAR",
+        "type": "WRAPPER",
+        "path": null,
+        "related": null,
+        "uiRouterKey": "divulgar",
+        "items": [
+          {
+            "id": 2719,
+            "title": "Comunicaciones",
+            "type": "WRAPPER",
+            "path": null,
+            "related": null,
+            "uiRouterKey": "comunicaciones",
+            "items": [
+              {
+                "id": 2726,
+                "title": "Comunicados",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "comunicados",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-12-21T18:38:50.094Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "comunicados",
+                "items": []
+              },
+              {
+                "id": 2727,
+                "title": "Acreditación de periodistas",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "acreditacion-de-periodistas",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2022-11-06T23:45:57.039Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "acreditacion-de-periodistas",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": 2724,
+            "title": "Multimedia",
+            "type": "WRAPPER",
+            "path": null,
+            "related": null,
+            "uiRouterKey": "multimedia",
+            "items": [
+              {
+                "id": 2725,
+                "title": "Fotografías",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "fotografias",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2023-01-02T15:10:22.652Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "fotografias",
+                "items": []
+              },
+              {
+                "id": 2898,
+                "title": "Vídeos",
+                "type": "INTERNAL",
+                "path": null,
+                "related": {
+                  "slug": "videos-es",
+                  "__contentType": "api::page.page",
+                  "publishedAt": "2023-01-09T22:27:27.393Z",
+                  "locale": "es"
+                },
+                "uiRouterKey": "videos",
+                "items": []
+              }
+            ]
+          },
+          {
+            "id": 2732,
+            "title": "Materiales de divulgación",
+            "type": "INTERNAL",
+            "path": null,
+            "related": {
+              "slug": "materiales-de-divulgacion",
+              "__contentType": "api::page.page",
+              "publishedAt": "2022-12-21T18:28:33.401Z",
+              "locale": "es"
+            },
+            "uiRouterKey": "materiales-de-divulgacion",
+            "items": []
+          }
+        ]
+      }
+    ],
+    "localizations": [
+      {
+        "locale": "pt",
+        "slug": "/"
+      },
+      {
+        "locale": "en",
+        "slug": "/"
+      }
+    ],
+    "__lang": "es"
+  }
+}
