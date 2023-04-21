@@ -65,10 +65,10 @@ export default function Navbar({
             <select
               data-testid="language-select"
               onChange={onChangeSelect}
-              className="rounded bg-blue-950 p-3 ring-1 ring-sky-400 uppercase "
+              className="rounded bg-blue-950 p-3 ring-1 ring-sky-400 uppercase"
             >
               {availableLocales.map((locale) => (
-                <option key={locale} value={locale} data-testid={locale}>
+                <option key={locale} value={locale} data-testid={locale} selected>
                   {locale}
                 </option>
               ))}
