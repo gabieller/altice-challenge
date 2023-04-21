@@ -1,12 +1,9 @@
 import { Navigation } from "../../types/LangTypes";
-import { useCallback, useEffect, useState } from "react";
+import { useCallback, useState } from "react";
 import Link from "next/link";
 
 export default function SidebarItem({ item }: { item: Navigation }) {
   const [isOpen, setIsOpen] = useState<boolean>(false);
-
-
-
 
   const handleClick = useCallback(() => {
     setIsOpen(!isOpen);
