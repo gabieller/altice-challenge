@@ -13,7 +13,6 @@ export default function Sidebar({ selectedMenu }: Props) {
     >
       <ul>
         {selectedMenu.items?.map((item) => (
-          // @ts-ignore
           <SidebarItem key={item.id} item={item} />
         ))}
       </ul>

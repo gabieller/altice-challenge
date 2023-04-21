@@ -42,8 +42,7 @@ const navigation: Navigation = {
 };
 
 describe('SidebarItem', () => {
-    it('renders internal navigation item', () => {
-        // @ts-ignore
+    test('renders internal navigation item', () => {
         render(<SidebarItem item={navigation} />);
         expect(screen.getByText('Main Navigation')).toBeInTheDocument()
 

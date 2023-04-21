@@ -53,14 +53,13 @@ export default function Navbar({
             {navigation.map((nav) => (
               <li
                 key={nav.id}
-                className={`${isActive(nav.id) ? "active bg-blue-200 rounded-lg p-2" : ""} cursor-pointer hover:text-blue-400`}
+                className={`${
+                  isActive(nav.id) ? "active bg-blue-200 rounded-lg p-2" : ""
+                } cursor-pointer hover:text-blue-400`}
               >
                 <div onClick={() => onSelectMenu(nav.id)}>
-                  <p className="uppercase">
-
-                  {nav.title}
-                  </p>
-                  </div>
+                  <p className="uppercase">{nav.title}</p>
+                </div>
               </li>
             ))}
             <select
