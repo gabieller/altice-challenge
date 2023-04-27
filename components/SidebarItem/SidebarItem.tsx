@@ -9,6 +9,7 @@ export default function SidebarItem({ item }: { item: Navigation }) {
     setIsOpen(!isOpen);
   }, [isOpen]);
 
+  //renderiza o link -> muda a url e o texto
   if (item.type === "INTERNAL") {
     return (
       <li key={item.id} className="p-4">
@@ -25,7 +26,6 @@ export default function SidebarItem({ item }: { item: Navigation }) {
         type="button"
         className="flex items-center w-full text-white transition duration-75 rounded-lg hover:bg-gray-100 hover:text-black "
         onClick={handleClick}
-  
       >
         <span className="flex-1 text-left p-4">{item.title}</span>
         {isOpen ? (
@@ -60,12 +60,11 @@ export default function SidebarItem({ item }: { item: Navigation }) {
           </svg>
         )}
       </button>
-      <ul
-        className={` ${!isOpen ? "hidden" : ""}`}
-        data-testid="sidebar-menu"
-      >
+      <ul className={` ${!isOpen ? "hidden" : ""}`} data-testid="sidebar-menu">
         {item.items?.map((page) => (
           // @ts-ignore
+
+          //pra cada filho chama o componente sidebaritem recursivamente
           <SidebarItem key={page.id} item={page} />
         ))}
       </ul>

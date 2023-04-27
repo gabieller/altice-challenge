@@ -19,11 +19,13 @@ export default function Navbar({
   onSelectMenu,
 }: Props) {
   const router = useRouter();
+  //vai nas props e retorna as localizações, array e adiciona a que tá selecionada
   const availableLocales = useMemo(() => {
     const allLocales = [...localizations.map((l) => l.locale), locale];
     return allLocales.sort();
   }, [localizations, locale]);
 
+  //faz o redirect pra linguagem seleciona
   const onChangeSelect = useCallback(
     (event: ChangeEvent<HTMLSelectElement>) => {
       router.push(`/${event.target.value}`);
@@ -31,6 +33,7 @@ export default function Navbar({
     [router]
   );
 
+  //vê se o id do menu é o id selecionado
   const isActive = useCallback(
     (id: number) => {
       return id === selectedMenuId;
